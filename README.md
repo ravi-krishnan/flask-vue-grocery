@@ -1,6 +1,6 @@
-# frontend
+#Grocery Store App
 
-> A Vue.js project
+> A Vue.js + Flask project
 
 ## Build Setup
 
