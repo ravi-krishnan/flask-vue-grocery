@@ -38,4 +38,4 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 * Store Managers can download inventory details from their dashboard
 * From the Store Manager dashboard, we can get a glimpse of the distribution of products and categories and also the most popular products
 * From the Admin dashboard , we can see user activities and checkout details
-* Daily remainder and  Monthly reports are sent to each user based on their activity (using celery+Redis
+* Daily remainder and  Monthly reports are sent to each user based on their activity (using celery+Redis)
