@@ -1,4 +1,4 @@
-#Grocery Store App
+# Grocery Store App
 
 > A Vue.js + Flask project
 
