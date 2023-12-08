@@ -25,3 +25,11 @@ npm test
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+
+## Functions
+
+> Ability to browse and buy products from a wide range of categories
+> The app contains Admin, Store Manager roles
+> Admin sets up the categories while the Store Manager works with the products
+> Daily remainder and  Monthly reports are sent to each user based on their activity (using celery+Redis
